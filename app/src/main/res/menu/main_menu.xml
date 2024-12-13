@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/maps_title"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="@string/title_logout"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/location_1"
+        android:title="@string/story_with_location" />
+
+    <item
+        android:id="@+id/location_0"
+        android:title="@string/story_without_location" />
+
+</menu>

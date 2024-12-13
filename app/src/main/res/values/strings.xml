@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just at Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Ready to upgrade your skills?</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+
+    <string name="password_length">Password must be at least 8 characters long!</string>
+    <string name="register">Register</string>
+    <string name="title_register_page">Complete your data below</string>
+    <string name="title_register">Register</string>
+    <string name="title_login">Login Form</string>
+    <string name="email_validation">Your email address is not valid!</string>
+    <string name="name_validation">Your name is not valid!</string>
+    <string name="required_field">This field cannot be empty!</string>
+    <string name="username">Hello, %1$s</string>
+    <string name="add_story">Add Story</string>
+    <string name="take_picture">Camera</string>
+    <string name="open_file">Gallery</string>
+    <string name="upload_picture">Upload Story</string>
+    <string name="story">Story</string>
+    <string name="retry">Retry</string>
+    <string name="language">Change Language</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="gambar">Image</string>
+    <string name="add_story_title">Add Story</string>
+    <string name="deskripsi">Description</string>
+    <string name="detail_story">Story Details</string>
+    <string name="todo">TODO</string>
+    <string name="my_app_title">My App Title</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="no_data_available">No data available</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_signup_page">Complete your information below</string>
+    <string name="message_main_page">Welcome to Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="password_too_short">Password must be at least 8 characters long</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="image_story">Image Story</string>
+    <string name="title_story">Author Story</string>
+    <string name="description_story">Description Story</string>
+    <string name="date_story">Date Story</string>
+    <string name="longitude_story">Longitude Story</string>
+    <string name="latitude_story">Latitude Story</string>
+    <string name="maps_title">Maps</string>
+    <string name="story_with_location">Story with Location</string>
+    <string name="story_without_location">Story without Location</string>
+</resources>
